@@ -95,4 +95,4 @@ Wrinkle.push({"물질적", "정신적"}, {"가시적","비가시적"}, {"의식�
 상징적 현실에 침입하는 상징화에 저항하는 것, 억압되고 무의식적인 것(이데와 유사한 부분)
 
 #### 라캉의 보로메오 매듭
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fblog.daum.net%2Fnanomat%2F436&psig=AOvVaw1bAKv1NvmTHYJjReYvCEcr&ust=1599478067873000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDSmqK21OsCFQAAAAAdAAAAABAI" width="450px" height="300px"  alt="RubberDuck"></img><br/>
+<img src="https://t1.daumcdn.net/cfile/blog/2626144F512EBDC221" width="450px" height="300px"  alt="꽈베기"></img><br/>
